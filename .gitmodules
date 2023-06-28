@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "QGameTheory"]
 	path = QGameTheory
 	url = https://github.com/indrag49/qgametheory
-	shallow = true
-	registered = true
